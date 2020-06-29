@@ -1,0 +1,11 @@
+.header {
+  font-size: 40px;
+  background-color: blue;
+}
+.main {
+  background-color: burlywood;
+}
+
+.footer {
+  background-color: cyan;
+}
