@@ -1,11 +1,12 @@
-.header {
+header {
   font-size: 40px;
   background-color: blue;
 }
 .main {
   background-color: burlywood;
+  height: 400px;
 }
 
-.footer {
+footer {
   background-color: cyan;
 }
