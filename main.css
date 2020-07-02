@@ -24,6 +24,9 @@ header {
 
 h1 {
   font-family: serif;
+  font-weight: bold;
+  border-top: solid 5px #5989cf;
+  border-bottom: solid 5px #5989cf;
 }
 
 h2 {
