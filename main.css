@@ -19,6 +19,12 @@ header {
 .main-center {
   text-align: center;
   background-color: white;
+}
+
+.main-bottom {
+  text-align: center;
+  background-color: white;
+  padding: 100px 0px;
 
 }
 
