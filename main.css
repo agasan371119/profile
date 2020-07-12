@@ -47,6 +47,20 @@ p {
   padding: 5px 0px;
 }
 
-/* footer {
-  background-color: cyan;
-} */
+footer {
+  /* background-color: gray; */
+  text-align: center;
+  margin-top: 100px;
+  padding-top: 100px;
+}
+
+.image_size {
+  width: 50px;
+  height: 50px;
+  background-color: white;
+}
+
+.image {
+  text-align: center;
+  
+}
